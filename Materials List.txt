@@ -1,0 +1,45 @@
+As represented in the CAD model, a materials list:
+
+50 mm X 50 mm Aluminium Tubing (Wall thickness irrelevant)
+	2 @ 425 mm = 850 mm
+	2 @ 484 mm = 968 mm
+	3 @ 505 mm = 1515 mm
+Total = 7 @ 3333 mm (3.33 m)
+
+4mm Thickness Aluminium Plate
+	1 @ 210 mm x 210 mm
+	1 @ 105 mm x 100 mm
+	1 @ 110 mm x 100 mm
+	1 @ 16 mm x 40 mm
+	2 @ 14 mm x 42 mm
+	1 @ 10 mm x 25 mm
+	1 @ 20 mm x 25 mm
+	2 @ 35 mm x 25 mm
+	TBA
+Total = TBA
+
+5mm Thickness Glass
+	1 @ 250 mm x 250 mm
+
+Hardware: 
+
+1	Arduino Mega 2560
+1	RAMPS 1.6
+3	Endstops
+1	240 watt Power supply
+4 	A49AA Stepper Driver
+5	NEMA 17 Stepper Motor
+4	stepper Motor Mount
+2	TL Smoother
+1	E3D Hotend
+1	MK8 Extruder
+2	GT2 Timing Belt (1m ea)
+2	GT2 Drive Gear
+2	GT2 Idler Pulley
+TBA	Idler Bracket
+2	5mm to 8 mm adapter coupler
+10	SC8UU Bearings
+6	8mm Smooth Rods
+12	Smooth Rod Holder
+2	anti backlash spring loaded nut
+2	Threaded Rod 8mm thick, 2mm lead, 2mm pitch
