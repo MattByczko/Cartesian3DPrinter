@@ -4,7 +4,7 @@ As represented in the CAD model, a materials list:
 	2 @ 425 mm = 850 mm
 	2 @ 484 mm = 968 mm
 	3 @ 505 mm = 1515 mm
-Total = 7 @ 3333 mm (3.33 m)
+Total = 7 @ 3333 mm (3.33 m) 3.4M
 
 4mm Thickness Aluminium Plate
 	1 @ 210 mm x 210 mm
@@ -14,9 +14,11 @@ Total = 7 @ 3333 mm (3.33 m)
 	2 @ 14 mm x 42 mm
 	1 @ 10 mm x 25 mm
 	1 @ 20 mm x 25 mm
-	2 @ 35 mm x 25 mm
+	2 @ 35 mm x 25 mm - 440 X 210 or 770 X 210 = 1617 cm 2 X 4mm
 	TBA
 Total = TBA
+
+350 mm of 3mm x 50x50 OR 40x40 Angle
 
 5mm Thickness Glass
 	1 @ 250 mm x 250 mm
